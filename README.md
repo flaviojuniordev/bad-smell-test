@@ -8,7 +8,7 @@ Trabalho de Teste de Software baseado em [bad-smells-js-refactoring](https://git
 - `src/ReportGenerator.refactored.js`: versão refatorada, com regras de visibilidade, prioridade e formatação separadas.
 - `tests/ReportGenerator.test.js`: suíte original, sem alterações.
 - `__tests__/ReportGenerator.refactored.test.js`: cópia da suíte original; somente o import aponta para a versão refatorada.
-- `output/pdf/Relatorio_Bad_Smells.pdf`: relatório final do trabalho.
+- `Relatorio_Bad_Smells.pdf`: relatório final do trabalho, na raiz do repositório.
 
 ## Como validar
 
